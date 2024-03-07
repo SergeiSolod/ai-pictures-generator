@@ -12,6 +12,8 @@
 
 ### About the project
 
+https://youtu.be/fqXai7GcUw4 video demonstration of the project
+
 You can view project here: https://fusionbrain-ai-pictures-generation.vercel.app/
 
 This is the frontend part of the project that allows you to make queries on AI Fusionbrain.ai. This project allows you to generate beautiful images based on the user's request, these images will be stored on the server and shown in the user's search history on the right side. Making requests directly to the Fusionbrain.ai API from the frontend is prohibited, you will get a Cors Error, and your public key and secter can be stolen, so you need a backend layer that will make these requests and securely store your public key and secter. The backend part of this project is here https://github.com/SergeiSolod/fusionbrain-ai-pictures-generator-backend
