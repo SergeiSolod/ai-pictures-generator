@@ -2,7 +2,7 @@
 
 https://youtu.be/fqXai7GcUw4 video demonstration of the project
 
-You can view project here: https://fusionbrain-ai-pictures-generator.vercel.app/
+You can view project here: https://ai-image.jsvar.com
 
 This is the backend part of the project that allows you to make queries on AI Fusionbrain.ai. This project allows you to generate beautiful images based on the user's request, these images will be stored on the server and shown in the user's search history on the right side. 
 
@@ -26,11 +26,11 @@ The project is made on nodejs v21.6.1, npm v10.2.4, any current version will do
 
 `SECRET` = Secret key from https://fusionbrain.ai/
 
-`FRONT_URL_PROD` = URL where the frontend is stored in production, for example https://fusionbrain-ai-pictures-generation.vercel.app/
+`FRONT_URL_PROD` = URL where the frontend is stored in production, for example https://ai-image.jsvar.com
 
 `FRONT_URL_DEV` = URL where the frontend is stored in dev, for example http://localhost:5173
 
-`URL_BACK_PROD` = URL where this backend application will be located in production, for example https://fusionbrain-ai-pictures-generation-backend.vercel.app/
+`URL_BACK_PROD` = URL where this backend application will be located in production
 
 `URL_BACK_DEV` = URL where this backend application will be located in dev, for example http://localhost:5000/
 
